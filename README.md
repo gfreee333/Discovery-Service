@@ -1,5 +1,5 @@
 ---
-# Discovery-Server
+# Discovery-Service
 ---
 ## 1. Описание сервиса
 
